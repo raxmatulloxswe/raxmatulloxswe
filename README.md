@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,postgres,redis,docker,nginx,selenium,postman"/>
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,redis,docker,nginx,selenium,postman"/>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,pycharm,github,gitlab,git"/><br>
 </div>
 
