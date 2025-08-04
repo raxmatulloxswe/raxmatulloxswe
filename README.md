@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a practice**
+ 🔭 I’m currently working on **learning the low-level**
  
  </div>
  
